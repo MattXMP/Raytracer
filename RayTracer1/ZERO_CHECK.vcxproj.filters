@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\butte\OneDrive\Desktop\UE5 Tutorials\Learn C++ for Game Development\CMake Binaries\RayTracer1\CMakeFiles\a12d13017732eb73f64898fe0b59021b\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1D99120E-8699-3BE3-8E87-BEB75930CD69}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
