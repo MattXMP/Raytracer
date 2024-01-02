@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\butte\OneDrive\Desktop\UE5 Tutorials\Learn C++ for Game Development\CMake Binaries\RayTracerBinaries\Raytracer\RayTracer1\x64\Debug\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\butte\OneDrive\Desktop\UE5 Tutorials\Learn C++ for Game Development\CMake Binaries\RayTracerBinaries\Raytracer\RayTracer1\Debug\RayTracer.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

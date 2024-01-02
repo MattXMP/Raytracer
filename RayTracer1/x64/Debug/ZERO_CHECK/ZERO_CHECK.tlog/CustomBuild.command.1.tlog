@@ -1,0 +1,10 @@
+^C:\USERS\BUTTE\ONEDRIVE\DESKTOP\UE5 TUTORIALS\LEARN C++ FOR GAME DEVELOPMENT\CMAKE BINARIES\RAYTRACERBINARIES\RAYTRACER\RAYTRACER1\CMAKEFILES\99B18262A0777367700D7DA322C4D21A\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/butte/OneDrive/Desktop/UE5 Tutorials/Learn C++ for Game Development/Raytracer" "-BC:/Users/butte/OneDrive/Desktop/UE5 Tutorials/Learn C++ for Game Development/CMake Binaries/RayTracerBinaries/Raytracer/RayTracer1" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/butte/OneDrive/Desktop/UE5 Tutorials/Learn C++ for Game Development/CMake Binaries/RayTracerBinaries/Raytracer/RayTracer1/RayTracer.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
