@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/butte/OneDrive/Desktop/UE5 Tutorials/Learn C++ for Game Development/CMake Binaries/RayTracer1/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/butte/OneDrive/Desktop/UE5 Tutorials/Learn C++ for Game Development/CMake Binaries/RayTracerBinaries/Raytracer/RayTracer1/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
